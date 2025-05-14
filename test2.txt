@@ -1,1 +1,2 @@
-climate : good in condition
+
+climate : bad in condition
